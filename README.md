@@ -35,7 +35,7 @@ Below are selected works from our research group, focusing on advanced Cross-vie
 ### More Exploration 
 | Conference / Journal | Title | Resources |
 |:---|:---|:---|
-| **Arxiv2025** | Multi-modal Multi-platform Person Re-Identification: Benchmark and Method | [Paper](https://arxiv.org/pdf/2503.17096) [Code](https://github.com/MP-ReID/mp-reid) |
+| **Arxiv2025** | Multi-modal Multi-platform Person Re-Identification: Benchmark and Method | [Paper](https://arxiv.org/pdf/2503.17096)  [Code](https://github.com/MP-ReID/mp-reid) |
 | **SPL2025** | Omni-Directional View Person Re-Identification Through 3D Human Reconstruction | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10839551) |
 
 ### Challenge Result
