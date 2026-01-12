@@ -23,21 +23,30 @@ Below are selected works from our research group, focusing on advanced Cross-vie
 | **CVPR 2024** | View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network  | [Paper](https://arxiv.org/abs/2403.14513) [Code](https://github.com/LinlyAC/VDT-AGPReID?tab=readme-ov-file) |
 | **TIFS2024** | AG-ReID.v2: Bridging Aerial and Ground Views for Person Re-identification | [Paper](https://arxiv.org/abs/2401.02634) [Code](https://github.com/huynguyen792/AG-ReID.v2) |
 | **ICME2023** | Aerial-Ground Person Re-ID | [Paper](https://arxiv.org/abs/2303.08597) |
-| **SENSORS2025** | CVNet: Lightweight Cross-View Vehicle ReID with Multi-Scale Localization | [Paper](https://www.mdpi.com/1424-8220/25/9/2809)
-
+| **SENSORS2025** | CVNet: Lightweight Cross-View Vehicle ReID with Multi-Scale Localization | [Paper](https://www.mdpi.com/1424-8220/25/9/2809) |
+| **DRONES2025** | Unsupervised Aerial-Ground Re-Identification from Pedestrian to Group for UAV-Based Surveillance | [Paper](https://www.mdpi.com/2504-446X/9/4/244) |
+| **RS2025** | Aerial-Ground Cross-View Vehicle Re-Identification: A Benchmark Dataset and Baseline | [Paper](https://www.mdpi.com/2072-4292/17/15/2653) |
+| **TOMM2025** | 
+| **ATR2017** | Person Re-Identification Across Aerial and Ground-Based Cameras by Deep Feature Fusion | [Paper](https://publica.fraunhofer.de/bitstreams/ef904224-f31f-484d-b8d2-56695e46779c/download) |
 ### Video-based Aerial-Ground Person Re-Identification
 | Conference / Journal | Title | Resources |
 |:---|:---|:---|
 | **CVPR2025** | AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification | [Paper](https://arxiv.org/abs/2503.08121) |
 | **ECCV2024** | Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach | [Paper](https://arxiv.org/abs/2408.07500) [Code](https://github.com/FHR-L/VSLA-CLIP) |
-| **TBIOM2025** | DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition | [Paper](https://arxiv.org/pdf/2505.04793) [Code](https://github.com/kailashhambarde/DetReIDX/tree/main) |
+| **TBIOM2025** | DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition | [Paper](https://arxiv.org/pdf/2505.04793) [Dataset](https://github.com/kailashhambarde/DetReIDX/tree/main) |
 | **WACVW2026** | SAS-VPReID: A Scale-Adaptive Framework with Shape Priors for Video-based Person Re-Identification at Extreme Far Distances | [Paper](https://arxiv.org/pdf/2601.05535) |
+| **IJCB2025** | VM-TAPS: View-specific Memory with Temporal and Scale Awareness Framework for Video-based Cross-View Person Re-Identification | [Paper](https://www.di.ubi.pt/%7Ehugomcp/doc/rashid_ijcb2025.pdf) [Code](https:
+//github.com/MdRashidunnabi/VM-TAPS) |
+| **TBIOM2025** | Seeing Across Time and Views: Multi-Temporal Cross-View Learning for Robust Video Person Re-Identification | [Paper](https://arxiv.org/pdf/2511.02564) [Code](https://github.com/MdRashidunnabi/MTF-CVReID) |
 ### More Exploration 
 | Conference / Journal | Title | Resources |
 |:---|:---|:---|
 | **Arxiv2025** | Multi-modal Multi-platform Person Re-Identification: Benchmark and Method | [Paper](https://arxiv.org/pdf/2503.17096)  [Code](https://github.com/MP-ReID/mp-reid) |
 | **SPL2025** | Omni-Directional View Person Re-Identification Through 3D Human Reconstruction | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10839551) |
-
+| **IJCB2025** | AG-VPReID.VIR: Bridging Aerial and Ground Platforms for Video-based Visible-Infrared Person Re-ID | [Paper](https://arxiv.org/abs/2507.17995) |
+| **AAAI2026** | Text-based Aerial-Ground Person Retrieval | [Paper](https://arxiv.org/pdf/2511.08369) [Code](https://github.com/Flame-Chasers/TAG-PR) |
+| **ACMMM2024** | AerialGait: Bridging Aerial and Ground Views for Gait Recognition | [Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681002) |
+| **TCSVT2025** | AEA-FIRM: Adaptive Elastic Alignment with Fine-Grained Representation Mining for Text-based Aerial Pedestrian Retrieval | [Paper](https://ieeexplore.ieee.org/document/11072214) [Code](https://github.com/xbdxwyh/AEA-FIRM-main) [Dataset](https://drive.google.com/file/d/1YYIpBDoJzTIwYRlpWUqEHmpo5GK05S_W/view) |
 ### Challenge Result
 | Conference / Journal | Title | Resources |
 |:---|:---|:---|
