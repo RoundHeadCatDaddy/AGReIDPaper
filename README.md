@@ -31,7 +31,7 @@ Below are selected works from our research group, focusing on advanced Cross-vie
 | **CVPR2025** | AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification | [Paper](https://arxiv.org/abs/2503.08121) |
 | **ECCV2024** | Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach | [Paper](https://arxiv.org/abs/2408.07500) [Code](https://github.com/FHR-L/VSLA-CLIP) |
 | **TBIOM2025** | DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition | [Paper](https://arxiv.org/pdf/2505.04793) [Code](https://github.com/kailashhambarde/DetReIDX/tree/main) |
-
+| **WACVW2026** | SAS-VPReID: A Scale-Adaptive Framework with Shape Priors for Video-based Person Re-Identification at Extreme Far Distances | [Paper](https://arxiv.org/pdf/2601.05535) |
 ### More Exploration 
 | Conference / Journal | Title | Resources |
 |:---|:---|:---|
