@@ -6,8 +6,8 @@ Aerial-Ground Person Re-Identification aims to match pedestrians across drone-ca
 ## 🌟 Spotlight: Our Contributions
 
 Below are selected works from our research group, focusing on advanced Cross-view Alignment.
-- **[TIP 2025] SD-ReID: View-aware Stable Diffusion for Aerial-Ground Person Re-Identification** *[Paper]([https://arxiv.org/abs/2504.09549])*
-- **[TIFS 2025] LATex: Leveraging Attribute-based Text Knowledge for Aerial-Ground Person Re-Identification** *[Paper]([https://arxiv.org/abs/2503.23722])*
+- **[TIP 2025] SD-ReID: View-aware Stable Diffusion for Aerial-Ground Person Re-Identification** [Paper]([https://arxiv.org/abs/2504.09549])
+- **[TIFS 2025] LATex: Leveraging Attribute-based Text Knowledge for Aerial-Ground Person Re-Identification** [Paper]([https://arxiv.org/abs/2503.23722])
 - 
 ## 📝 Papers & Methods
 ### Image-based Aerial-Ground Person Re-Identification
