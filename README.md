@@ -43,9 +43,9 @@ Below are selected works from our research group, focusing on advanced Cross-vie
 ### More Exploration 
 | Conference / Journal | Title | Resources |
 |:---|:---|:---|
-| **Arxiv2025** | Multi-modal Multi-platform Person Re-Identification: Benchmark and Method | [Paper](https://arxiv.org/pdf/2503.17096)  [Code](https://github.com/MP-ReID/mp-reid) [Dataset](https://drive.google.com/drive/folders/1Iy814PqWjwIZcv6CZpieFju-Dop9Y2G7) |
+| **Arxiv2025** | Multi-modal Multi-platform Person Re-Identification: Benchmark and Method | [Paper](https://arxiv.org/pdf/2503.17096)  [Code](https://github.com/MP-ReID/mp-reid) [Dataset](https://drive.google.com/file/d/1hImLEMcsBB2kNV4McGyksVAumLjZQoUU/view) |
 | **SPL2025** | Omni-Directional View Person Re-Identification Through 3D Human Reconstruction | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10839551) |
-| **IJCB2025** | AG-VPReID.VIR: Bridging Aerial and Ground Platforms for Video-based Visible-Infrared Person Re-ID | [Paper](https://arxiv.org/abs/2507.17995) |
+| **IJCB2025** | AG-VPReID.VIR: Bridging Aerial and Ground Platforms for Video-based Visible-Infrared Person Re-ID | [Paper](https://arxiv.org/abs/2507.17995) [Dataset](https://drive.google.com/drive/folders/1Iy814PqWjwIZcv6CZpieFju-Dop9Y2G7) |
 | **AAAI2026** | Text-based Aerial-Ground Person Retrieval | [Paper](https://arxiv.org/pdf/2511.08369) [Code](https://github.com/Flame-Chasers/TAG-PR) [Dataset](https://pan.quark.cn/s/dcddfa17cb7f?pwd=8pE6#/list/share) |
 | **ACMMM2024** | AerialGait: Bridging Aerial and Ground Views for Gait Recognition | [Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681002) |
 | **TCSVT2025** | AEA-FIRM: Adaptive Elastic Alignment with Fine-Grained Representation Mining for Text-based Aerial Pedestrian Retrieval | [Paper](https://ieeexplore.ieee.org/document/11072214) [Code](https://github.com/xbdxwyh/AEA-FIRM-main) [Dataset](https://drive.google.com/file/d/1YYIpBDoJzTIwYRlpWUqEHmpo5GK05S_W/view) |
