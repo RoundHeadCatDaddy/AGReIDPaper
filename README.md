@@ -35,8 +35,7 @@ Below are selected works from our research group, focusing on advanced Cross-vie
 | **ECCV2024** | Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach | [Paper](https://arxiv.org/abs/2408.07500) [Code](https://github.com/FHR-L/VSLA-CLIP) |
 | **TBIOM2025** | DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition | [Paper](https://arxiv.org/pdf/2505.04793) [Dataset](https://github.com/kailashhambarde/DetReIDX/tree/main) |
 | **WACVW2026** | SAS-VPReID: A Scale-Adaptive Framework with Shape Priors for Video-based Person Re-Identification at Extreme Far Distances | [Paper](https://arxiv.org/pdf/2601.05535) |
-| **IJCB2025** | VM-TAPS: View-specific Memory with Temporal and Scale Awareness Framework for Video-based Cross-View Person Re-Identification | [Paper](https://www.di.ubi.pt/%7Ehugomcp/doc/rashid_ijcb2025.pdf) [Code](https:
-//github.com/MdRashidunnabi/VM-TAPS) |
+| **IJCB2025** | VM-TAPS: View-specific Memory with Temporal and Scale Awareness Framework for Video-based Cross-View Person Re-Identification | [Paper](https://www.di.ubi.pt/%7Ehugomcp/doc/rashid_ijcb2025.pdf) [Code](https://github.com/MdRashidunnabi/VM-TAPS) |
 | **TBIOM2025** | Seeing Across Time and Views: Multi-Temporal Cross-View Learning for Robust Video Person Re-Identification | [Paper](https://arxiv.org/pdf/2511.02564) [Code](https://github.com/MdRashidunnabi/MTF-CVReID) |
 ### More Exploration 
 | Conference / Journal | Title | Resources |
