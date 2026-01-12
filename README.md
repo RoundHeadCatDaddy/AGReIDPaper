@@ -43,7 +43,7 @@ Below are selected works from our research group, focusing on advanced Cross-vie
 ### More Exploration 
 | Conference / Journal | Title | Resources |
 |:---|:---|:---|
-| **Arxiv2025** | Multi-modal Multi-platform Person Re-Identification: Benchmark and Method | [Paper](https://arxiv.org/pdf/2503.17096)  [Code](https://github.com/MP-ReID/mp-reid) |
+| **Arxiv2025** | Multi-modal Multi-platform Person Re-Identification: Benchmark and Method | [Paper](https://arxiv.org/pdf/2503.17096)  [Code](https://github.com/MP-ReID/mp-reid) [Dataset](https://drive.google.com/drive/folders/1Iy814PqWjwIZcv6CZpieFju-Dop9Y2G7) |
 | **SPL2025** | Omni-Directional View Person Re-Identification Through 3D Human Reconstruction | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10839551) |
 | **IJCB2025** | AG-VPReID.VIR: Bridging Aerial and Ground Platforms for Video-based Visible-Infrared Person Re-ID | [Paper](https://arxiv.org/abs/2507.17995) |
 | **AAAI2026** | Text-based Aerial-Ground Person Retrieval | [Paper](https://arxiv.org/pdf/2511.08369) [Code](https://github.com/Flame-Chasers/TAG-PR) [Dataset](https://pan.quark.cn/s/dcddfa17cb7f?pwd=8pE6#/list/share) |
