@@ -7,8 +7,8 @@ Aerial-Ground Person Re-Identification aims to match pedestrians across drone-ca
 ## 🌟 Spotlight: Our Contributions
 
 Below are selected works from our research group, focusing on advanced Cross-view Alignment.
-- **[TIP 2025] SD-ReID: View-aware Stable Diffusion for Aerial-Ground Person Re-Identification** [Paper](https://arxiv.org/abs/2504.09549)
-- **[TITS 2025] LATex: Leveraging Attribute-based Text Knowledge for Aerial-Ground Person Re-Identification** [Paper](https://arxiv.org/abs/2503.23722)
+- **[Arxiv 2025] SD-ReID: View-aware Stable Diffusion for Aerial-Ground Person Re-Identification** [Paper](https://arxiv.org/abs/2504.09549)
+- **[Arxiv 2025] LATex: Leveraging Attribute-based Text Knowledge for Aerial-Ground Person Re-Identification** [Paper](https://arxiv.org/abs/2503.23722)
 - **[WACVW 2026] SAS-VPReID: A Scale-Adaptive Framework with Shape Priors for Video-based Person Re-Identification at Extreme Far Distances** [Paper](https://arxiv.org/pdf/2601.05535)
 - Coming Soon
 ## 📝 Papers & Methods
@@ -18,8 +18,8 @@ Below are selected works from our research group, focusing on advanced Cross-vie
 | **AAAI2026** | Semantic-Driven Progressive Refinement for Aerial Ground Person ReID: A Challenging Large-Scale Benchmark | Coming Soon | 
 | **Neurips 2025** | GSAlign: Geometric and Semantic Alignment Network for Aerial-Ground Person Re-Identification | [Paper](https://openreview.net/attachment?id=bxELEjg3VE&name=pdf) [Code](https://github.com/stone96123/GSAlign?tab=readme-ov-file) |
 | **ICCV 2025** | Bridging the Sky and Ground: Towards View-Invariant Feature Learning for Aerial-Ground Person Re-Identification | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Khalid_Bridging_the_Sky_and_Ground_Towards_View-Invariant_Feature_Learning_for_ICCV_2025_paper.html) |
-| **TIP 2025** | SD-ReID: View-aware Stable Diffusion for Aerial-Ground Person Re-Identification | [Paper](https://arxiv.org/abs/2504.09549)  |
-| **TIFS 2025** | LATex: Leveraging Attribute-based Text Knowledge for Aerial-Ground Person Re-Identification | [Paper](https://arxiv.org/abs/2503.23722)  |
+| **Arxiv 2025** | SD-ReID: View-aware Stable Diffusion for Aerial-Ground Person Re-Identification | [Paper](https://arxiv.org/abs/2504.09549)  |
+| **Arxiv 2025** | LATex: Leveraging Attribute-based Text Knowledge for Aerial-Ground Person Re-Identification | [Paper](https://arxiv.org/abs/2503.23722)  |
 | **ICME2025** | Dynamic Token Selection for Aerial-Ground Person Re-Identification | [Paper](https://yuhaiw.github.io/DTS-AGPReID/ICMEYuhai.pdf) [Code](https://github.com/YuhaiW/reidselecttoken) |
 | **CVPR 2025** | SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks | [Paper](https://arxiv.org/abs/2503.06965) [Code](https://github.com/wangshining681/SeCap-AGPReID) [Dataset](https://pan.baidu.com/share/init?surl=MRrhqoQzwxw7qOx4Lqdl2g) [Dataset](https://wangshining681.github.io/laper-page/Restrictions%20for%20The%20Use%20of%20LAGPeR%20Dataset.pdf)|
 | **CVPR 2024** | View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network  | [Paper](https://arxiv.org/abs/2403.14513) [Code](https://github.com/LinlyAC/VDT-AGPReID?tab=readme-ov-file) [Dataset](https://drive.google.com/file/d/1yDjyH0VtW7efxP3vgQjIqTx2oafCB67t/view) |
