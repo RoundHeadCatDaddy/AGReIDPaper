@@ -3,6 +3,7 @@
 Aerial-Ground Person Re-Identification aims to match pedestrians across drone-captured aerial and ground camera views, facing challenges from viewpoint discrepancies, resolution variations, lighting conditions, and background interference. Critical for smart surveillance, traffic management, and emergency response, it focuses on deep learning models (e.g., cross-view feature alignment networks, self-supervised strategies) to improve cross-domain accuracy and robustness, advancing vision systems in real-world applications.
 ## 📖 Table of Contents
 - [🌟 Spotlight: Our Contributions](#-spotlight-our-contributions)
+- [📝 Papers & Methods](#-papers--methods)
 ## 🌟 Spotlight: Our Contributions
 
 Below are selected works from our research group, focusing on advanced Cross-view Alignment.
@@ -27,3 +28,19 @@ Below are selected works from our research group, focusing on advanced Cross-vie
 ### Video-based Aerial-Ground Person Re-Identification
 | Conference / Journal | Title | Resources |
 |:---|:---|:---|
+| **CVPR2025** | AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification | [Paper](https://arxiv.org/abs/2503.08121) |
+| **ECCV2024** | Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach | [Paper](https://arxiv.org/abs/2408.07500) [Code](https://github.com/FHR-L/VSLA-CLIP) |
+| **TBIOM2025** | DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition | [Paper](https://arxiv.org/pdf/2505.04793) [Code](https://github.com/kailashhambarde/DetReIDX/tree/main) |
+
+### More Exploration 
+| Conference / Journal | Title | Resources |
+|:---|:---|:---|
+| **Arxiv2025** | Multi-modal Multi-platform Person Re-Identification: Benchmark and Method | [Paper](https://arxiv.org/pdf/2503.17096) [Code](https://github.com/MP-ReID/mp-reid) |
+| **SPL2025** | Omni-Directional View Person Re-Identification Through 3D Human Reconstruction | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10839551) |
+
+### Challenge Result
+| Conference / Journal | Title | Resources |
+|:---|:---|:---|
+| **IJCB2023** | AG-ReID 2023: Aerial-Ground Person Re-identification Challenge Results | [Paper](https://cvlab.cse.msu.edu/pdfs/IJCB_AG_ReID2023_Challenge_Summary_Paper.pdf) |
+|  **IJCB2025** | AG-VPReID 2025: Aerial-Ground Video-based Person Re-identification Challenge Results | [Paper](https://arxiv.org/pdf/2506.22843) |
+| **WACV2026** | VReID-XFD: Video-based Person Re-identification at Extreme Far Distance Challenge Results | [Paper](https://arxiv.org/pdf/2601.01312v1) |
