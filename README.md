@@ -8,7 +8,8 @@ Aerial-Ground Person Re-Identification aims to match pedestrians across drone-ca
 
 Below are selected works from our research group, focusing on advanced Cross-view Alignment.
 - **[TIP 2025] SD-ReID: View-aware Stable Diffusion for Aerial-Ground Person Re-Identification** [Paper](https://arxiv.org/abs/2504.09549)
-- **[TIFS 2025] LATex: Leveraging Attribute-based Text Knowledge for Aerial-Ground Person Re-Identification** [Paper](https://arxiv.org/abs/2503.23722)
+- **[TITS 2025] LATex: Leveraging Attribute-based Text Knowledge for Aerial-Ground Person Re-Identification** [Paper](https://arxiv.org/abs/2503.23722)
+- **[WACVW 2026] SAS-VPReID: A Scale-Adaptive Framework with Shape Priors for Video-based Person Re-Identification at Extreme Far Distances** [Paper](https://arxiv.org/pdf/2601.05535)
 - Coming Soon
 ## 📝 Papers & Methods
 ### Image-based Aerial-Ground Person Re-Identification
@@ -21,7 +22,7 @@ Below are selected works from our research group, focusing on advanced Cross-vie
 | **ICME2025** | Dynamic Token Selection for Aerial-Ground Person Re-Identification | [Paper](https://yuhaiw.github.io/DTS-AGPReID/ICMEYuhai.pdf) [Code](https://github.com/YuhaiW/reidselecttoken) |
 | **CVPR 2025** | SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks | [Paper](https://arxiv.org/abs/2503.06965) [Code](https://github.com/wangshining681/SeCap-AGPReID) [Dataset](https://pan.baidu.com/share/init?surl=MRrhqoQzwxw7qOx4Lqdl2g) [Dataset](https://wangshining681.github.io/laper-page/Restrictions%20for%20The%20Use%20of%20LAGPeR%20Dataset.pdf)|
 | **CVPR 2024** | View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network  | [Paper](https://arxiv.org/abs/2403.14513) [Code](https://github.com/LinlyAC/VDT-AGPReID?tab=readme-ov-file) [Dataset](https://drive.google.com/file/d/1yDjyH0VtW7efxP3vgQjIqTx2oafCB67t/view) |
-| **TIFS2024** | AG-ReID.v2: Bridging Aerial and Ground Views for Person Re-identification | [Paper](https://arxiv.org/abs/2401.02634) [Code](https://github.com/huynguyen792/AG-ReID.v2) [Dataset](https://drive.google.com/drive/folders/16r7G_CuUqfWG6_UCT7goIGRMqJird6vK) |
+| **TITS2024** | AG-ReID.v2: Bridging Aerial and Ground Views for Person Re-identification | [Paper](https://arxiv.org/abs/2401.02634) [Code](https://github.com/huynguyen792/AG-ReID.v2) [Dataset](https://drive.google.com/drive/folders/16r7G_CuUqfWG6_UCT7goIGRMqJird6vK) |
 | **ICME2023** | Aerial-Ground Person Re-ID | [Paper](https://arxiv.org/abs/2303.08597) [Dataset](https://drive.google.com/file/d/1hzieEPlXfjkN3V3XWqI5rAwpF_sCF1K9/view) |
 | **SENSORS2025** | CVNet: Lightweight Cross-View Vehicle ReID with Multi-Scale Localization | [Paper](https://www.mdpi.com/1424-8220/25/9/2809) |
 | **DRONES2025** | Unsupervised Aerial-Ground Re-Identification from Pedestrian to Group for UAV-Based Surveillance | [Paper](https://www.mdpi.com/2504-446X/9/4/244) |
